@@ -1,0 +1,28 @@
+package com.newmanuevers;
+
+// LinkList.java
+// demonstrates linked lists
+// -------------------------------------------------------
+class Link {
+  public int iData; // data item (key)
+  // public double dData; // data item
+
+  public long dData;
+  public Link next; // nex link in list
+  // -----------------------------------------------------
+
+  // public Link(int id, double dd){
+  // iData = id;
+  // dData = dd;
+  // }
+
+  public Link(long dd) {
+    dData = dd;
+  }
+
+  // -----------------------------------------------------
+  public void displayLink() { // display oneself
+    // System.out.print("{" + iData + ", " + dData + "} ");
+    System.out.print("{" + dData + "} ");
+  }
+}

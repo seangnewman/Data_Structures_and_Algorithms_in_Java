@@ -1,0 +1,155 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - TriangleApp",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "TriangleApp",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - InterIterApp",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "InterIterApp",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - DoublyLinkedApp",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "DoublyLinkedApp",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - SortedListApp",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "SortedListApp",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - LinkStackApp",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "LinkStackApp",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ArrayApp",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "ArrayApp",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-BubbleSortApp",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "BubbleSortApp",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-HighArrayApp",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "HighArrayApp",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-LowArrayApp",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "LowArrayApp",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-OrderedApp",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "OrderedApp",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ArrayApp(1)",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "com.newmanuevers.ArrayApp",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-BubbleSortApp(1)",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "com.newmanuevers.BubbleSortApp",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ClassDataApp",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "com.newmanuevers.ClassDataApp",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Debug (Attach)",
+      "request": "attach",
+      "hostName": "localhost",
+      "port": "<debug port of remote debuggee>"
+    }
+  ]
+}
